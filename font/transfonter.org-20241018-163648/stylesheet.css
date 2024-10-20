@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Beauty Fandytha';
+    src: url('BeautyFandytha.eot');
+    src: url('BeautyFandytha.eot?#iefix') format('embedded-opentype'),
+        url('BeautyFandytha.woff2') format('woff2'),
+        url('BeautyFandytha.woff') format('woff'),
+        url('BeautyFandytha.ttf') format('truetype'),
+        url('BeautyFandytha.svg#BeautyFandytha') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
